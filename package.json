@@ -1,0 +1,19 @@
+{
+  "name": "apinasa",
+  "version": "1.0.0",
+  "description": "Practica de AJAX y XMLHttpRequest con la API de la nasa",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Santiago010/ApiNASA.git"
+  },
+  "author": "Santiago Ortiz Llanos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Santiago010/ApiNASA/issues"
+  },
+  "homepage": "https://github.com/Santiago010/ApiNASA#readme"
+}
